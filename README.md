@@ -1,3 +1,7 @@
+# No Longer Maintained
+
+This release is no longer being maintained (last commit was 5 years ago).
+
 # BOSH NTP Release
 
 BOSH release for the Network Time Protocol (NTP) Server
